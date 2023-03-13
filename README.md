@@ -7,6 +7,20 @@ I wanted to see in 5 minutes, how many features I can write from scratch for an 
 
 The variants is the generated instructions is pretty low. Probably using more seed instructions and a similiarity filter like in Alpaca would help.
 
+## How to Run
+Optional: [Set up your ray cluster](https://docs.ray.io/en/latest/cluster/getting-started.html)
+
+```bash
+## set up OPENAI_API_KEY
+export OPENAI_API_KEY=YOUR_KEY
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the script
+python main.py
+```
+```
 
 
 # References
