@@ -1,0 +1,388 @@
+How to plant a seed in a pot?
+Write a persuasive essay arguing against the use of plastic bags.
+How to assemble a bookshelf from IKEA?
+Write a poem about the changing of seasons.
+How to make a delicious smoothie using mixed berries?
+Write a business proposal for a new product or service.
+How to create a website using WordPress?
+Write a short biography about a historical figure.
+How to solve a Rubik's Cube?
+Write a review of a book you recently read.
+How to make homemade pizza from scratch?
+Write a letter of apology to a friend you haven't spoken to in a while.
+How to create a budget plan for personal finance?
+Write a story about a family vacation gone wrong.
+How to perform a basic CPR on someone in need?
+Write a descriptive paragraph about a forest during a thunderstorm.
+How to use a sewing machine to repair clothes?
+Write a movie script about a futuristic society.
+How to meditate for beginners?
+Write a research paper on a current social issue.
+Write a step-by-step guide on how to make a cup of coffee using a French press.
+Create a PowerPoint presentation on the benefits of exercise on mental health.
+Write a recipe for vegan chocolate chip cookies.
+How to properly clean and maintain a stainless steel refrigerator.
+Write an email to your boss requesting time off for vacation.
+Create a workout plan for someone trying to build muscle.
+Write an article on the importance of sleep for overall health and wellness.
+How to use Excel to create a personal budget.
+Write instructions on how to assemble a bookshelf from Ikea.
+How to change the oil in a car.
+Write a persuasive essay on why people should switch to renewable energy sources.
+How to set up a successful social media marketing campaign.
+Write instructions on how to start a beginner yoga practice.
+Create a meal plan for a family of four for a week.
+How to properly clean and maintain leather shoes.
+Write a guide on how to plan a successful wedding on a budget.
+How to improve public speaking skills.
+Write a review of a recently released book or movie.
+How to properly store and care for fresh produce to make it last longer.
+Write a guide on how to create a professional LinkedIn profile.
+How to make a perfect cup of coffee at home?
+Write a step-by-step guide on how to make homemade pasta.
+How to create a budget plan for a family of five?
+Write a letter of recommendation for a former coworker who is job hunting.
+How to train for your first 5k race?
+Write a recipe for a healthy and delicious green smoothie.
+How to build a birdhouse for your backyard?
+Write a guide on how to start a garden in your backyard.
+How to prepare for a job interview?
+Write a review of a book you recently read and enjoyed.
+How to organize your closet in 10 easy steps?
+Write a guide on how to plan a perfect weekend getaway.
+How to approach difficult conversations with family members?
+Write a short guide on how to meditate for beginners.
+How to create a successful social media strategy for your business?
+Write a step-by-step guide on how to paint a room.
+How to overcome writer's block and get your creativity flowing?
+Write a travel guide for a city you have visited and loved.
+How to make your own DIY face mask at home?
+Write a guide on how to train your puppy to sit and stay obedient.
+Create a PowerPoint presentation on the benefits of exercise.
+Bake a batch of chocolate chip cookies using your favorite recipe.
+Design a poster for a charity event.
+Write a persuasive letter to a local business asking for a donation to a school fundraiser.
+Create a budget for a month's worth of expenses.
+Build a birdhouse using basic carpentry skills.
+Create a playlist of your favorite songs from the 80s.
+Write a short story about a character who discovers a hidden talent.
+Draw a self-portrait using pencil and paper.
+Research and summarize the life and accomplishments of a famous historical figure.
+Write a script for a short film based on a personal experience.
+Decorate a reusable tote bag using fabric markers or paint.
+Create a recipe for a healthy smoothie bowl.
+Write a blog post about the benefits of meditation.
+Build a tower out of marshmallows and toothpicks.
+Research and summarize the history of a popular holiday.
+Design a poster advertising new job openings at a local business.
+Write a poem about a favorite childhood memory.
+Create a map of your town or city and highlight your favorite local spots.
+Write a review of a restaurant you recently ate at.
+How to make scrambled eggs?
+How to do laundry?
+How to fix a leaky faucet?
+How to bake a chocolate cake?
+How to download and install software on your computer?
+How to write a cover letter for a job application?
+How to create a budget?
+How to plan a road trip?
+How to tie a tie?
+How to create a social media account?
+How to use a credit card responsibly?
+How to do a basic yoga sequence?
+How to make a homemade face mask?
+How to plant a herb garden?
+How to train for a 5K?
+How to write a personal statement for college?
+How to pack for a weekend trip?
+How to clean your room in 15 minutes?
+How to make a healthy smoothie?
+How to organize your closet?
+Given two strings, write a function to determine if they are anagrams of each other.
+How to cook a perfect steak on the stovetop?
+Write a guide on how to perform a basic car maintenance check.
+Given an array of integers, write a function to find the two numbers that add up to a given target.
+Write a step-by-step guide on how to set up a home theater system.
+How to tie a tie in different ways?
+Write a function to check if a given string is a palindrome.
+How to create a budget plan for your monthly expenses?
+Write a guide on how to properly plant and care for a vegetable garden.
+Given a list of numbers, write a function to find the maximum and minimum elements in the list.
+How to make your own homemade pizza from scratch?
+Write an instruction manual for programming a remote control.
+How to improve your public speaking skills?
+Write a guide on how to properly clean and maintain a bicycle.
+Given a string of words, write a function to reverse the order of the words.
+How to prepare for a job interview?
+Write a step-by-step guide on how to make a DIY face mask.
+How to plan and organize a successful event?
+Write a guide on how to properly store and preserve your favorite wines.
+Given a list of names, write a function to sort them in alphabetical order.
+Explain how to make a cup of coffee using a French press.
+List the steps to change a flat tire on a car.
+Write a thank-you note to your boss.
+Create a step-by-step guide to make a paper airplane.
+Detail the recipe to make a homemade pizza.
+List the steps for creating a budget plan.
+Write a summary of a chapter from a book you read.
+Discuss the steps involved in creating a social media marketing strategy.
+Explain how to change batteries in a remote control.
+Give instructions for cleaning a kitchen stovetop.
+Summarize an article about the benefits of meditation.
+Write a step-by-step procedure for making a simple origami animal.
+Detail the steps to reset a password for an online account.
+Explain how to make a healthy smoothie at home.
+List the steps for creating a compelling PowerPoint presentation.
+Give instructions for installing a new light fixture.
+Summarize a news article about a current event.
+Explain how to change a showerhead.
+Give step-by-step instructions for syncing a mobile device to a computer.
+List the steps to create an effective cover letter for a job application.
+Here are 20 more instructions for you:
+How to perform a basic yoga sequence for beginners?
+How to make a healthy smoothie at home?
+How to create a budget plan for your weekly expenses?
+How to prepare for a job interview?
+How to make your own soap at home using natural ingredients?
+How to properly clean and maintain your computer or laptop?
+How to start a successful blog and attract readers?
+How to improve your public speaking skills for a presentation or speech?
+How to make a DIY face mask for glowing skin?
+How to plan a memorable and fun vacation on a tight budget?
+How to grow your own vegetables and herbs in a backyard garden?
+How to improve your writing skills for academic or professional purposes?
+How to organize and declutter your home for a more minimalist lifestyle?
+Clean and disinfect your workspace before starting any task.
+Correctly assemble and use the equipment required for the job.
+Organize your materials and tools for efficient use and easy access.
+Follow safety guidelines and precautions when working with hazardous materials.
+Read and thoroughly understand instructions before beginning a task.
+Use clear and concise language when giving instructions to others.
+Set specific and achievable goals before starting any project.
+Take breaks regularly to avoid burnout and fatigue.
+Practice good posture and ergonomics to reduce the risk of injury.
+Keep a detailed and organized record of your work progress.
+Collaborate and communicate effectively with team members to achieve goals.
+Seek feedback from others to improve your work performance.
+Research and stay up-to-date on industry developments and trends.
+Take responsibility for your mistakes and learn from them to avoid repeating them.
+Prioritize your tasks based on urgency and importance.
+Stay positive and motivated even during difficult or challenging tasks.
+Continuously seek opportunities to learn and develop new skills.
+Respect other people's opinions and perspectives, even if they differ from your own.
+Keep a positive and professional attitude in the workplace.
+Learn to effectively manage your time to achieve maximum productivity.
+Here are 20 more example instructions: 
+Create a step-by-step guide for making homemade pizza.
+Write a persuasive essay on the benefits of recycling.
+How to properly prune rose bushes for optimal growth.
+Write a love letter to someone special in your life.
+How to plan and execute a successful garage sale.
+Write a list of healthy meal ideas for busy weeknights.
+How to build a DIY bookshelf from scratch.
+Write a poem about your favorite season.
+How to properly wash and maintain your car.
+Write a letter of apology to someone you may have wronged.
+How to make a homemade face mask for glowing skin.
+Write a short biography about a famous historical figure.
+How to create a professional LinkedIn profile.
+Write a list of self-care activities to practice during stressful times.
+How to train for a 5K race.
+Write a movie or book review for a recent favorite.
+How to effectively communicate with coworkers and colleagues.
+Write a descriptive essay about your favorite childhood memory.
+How to create a budget and stick to it.
+Write a travel journal entry about your favorite vacation destination.
+How to create a successful morning routine?
+How to train for a half-marathon?
+How to cook a delicious lasagna?
+How to build a birdhouse?
+How to change a flat tire?
+How to properly wash your car?
+How to meditate to reduce stress?
+How to knit a scarf or hat?
+How to plan a garden for beginners?
+How to create a solid workout plan?
+How to declutter and organize your closet?
+How to make homemade soap?
+How to play a basic song on a piano?
+How to take beautiful landscape photos?
+How to make the perfect cup of coffee?
+How to create a healthy meal plan on a tight budget?
+How to design a website from scratch?
+How to properly clean and care for your shoes?
+How to create a business plan for a small startup?
+How to train a dog to fetch a ball?
+Explain how to do a basic yoga sun salutation.
+Create a weekly meal plan for a family of four.
+Demonstrate how to properly brush and floss your teeth.
+Illustrate how to knit a beginner scarf.
+Provide a step-by-step guide for setting up a personal budget.
+Teach someone how to perform a basic car maintenance check.
+Explain how to properly care for a pet fish.
+Share tips for creating a productive work-from-home routine.
+Walk someone through setting up an online shopping account.
+Explain how to apply for a credit card.
+Show someone how to change a tire on their car.
+Create a guide for planting and growing a small herb garden.
+Demonstrate how to create a basic website using a website builder.
+Show how to organize a closet by category or color scheme.
+Create a tutorial for a simple makeup look for beginners.
+Walk someone through the process of creating a LinkedIn profile.
+Explain how to make a simple origami crane.
+Illustrate how to properly fold a fitted sheet.
+Create a guide for making a DIY face mask.
+Walk someone through the process of applying for a mortgage.
+Here are 20 additional instructions:
+How to change a flat tire on your car.
+Write step by step instructions for making a paper boat.
+How to create a budget plan for your monthly expenses.
+Make a list of essential items to pack for a weekend camping trip.
+Write a guide for creating a garden in your backyard.
+How to properly wash and clean your car.
+Create a step by step guide for programming your TV remote.
+Write a guide to creating a workout routine for beginners.
+How to properly store and organize your closet.
+Write step by step instructions for assembling a piece of IKEA furniture.
+How to make your own homemade cleaning products.
+Write a guide for reducing stress and practicing self-care.
+How to make a perfect cup of coffee at home.
+Make a list of safety precautions for handling power tools.
+Write a guide to creating a resume for a job application.
+How to properly clean and maintain your computer.
+Make a list of tips and tricks for studying effectively.
+Write a recipe for a delicious homemade chicken parmesan.
+How to prepare for a successful job interview.
+Write a guide for planning and executing a successful road trip.
+Sure thing, here are 20 more instructions for you!
+Create a budget plan for the month based on your expenses and income.
+Teach someone how to do a basic yoga pose.
+Create a presentation about a famous historical figure.
+Show someone how to properly tie a necktie.
+Write a step-by-step recipe for making your favorite dessert.
+Give a tutorial on how to create a simple website using HTML and CSS.
+Write a guide for how to plan a camping trip.
+Teach someone how to play a popular board game.
+Provide instructions for properly cleaning a stain off a piece of clothing.
+Write a brief biography of your favorite celebrity.
+Create a workout routine for someone based on their fitness goals.
+Give tips for how to prepare for an important job interview.
+Write a guide for how to take care of a houseplant.
+Explain how to properly fold a fitted sheet.
+Teach someone how to play a basic chord on a guitar.
+Show someone how to make a paper airplane.
+Give instructions for how to knit a scarf.
+Write a guide for how to plan a romantic date.
+Teach someone how to make a simple origami creation.
+Provide instructions for how to change a tire on a car.
+How to format a computer and reinstall the operating system?
+How to make a perfect cup of coffee using a French press?
+Give step-by-step instructions on how to make a paper airplane.
+Write a guide on how to prune and care for indoor plants.
+How to set up a new email account using Gmail?
+How to sew a basic shirt without a sewing machine?
+Give instructions on how to knit a scarf.
+How to properly store and organize clothes in a closet?
+How to troubleshoot and fix a slow computer?
+How to make a tasty smoothie using a blender?
+How to wash a car properly without damaging the paint?
+Give detailed instructions on how to assemble a piece of IKEA furniture.
+How to make a DIY face mask at home?
+How to prepare for a job interview and make a good impression?
+Write a tutorial on how to use Adobe Photoshop for basic photo editing.
+How to make a healthy and delicious salad in under 10 minutes?
+Give step-by-step instructions on how to replace a flat tire on a bicycle.
+How to draw a simple cartoon character in five steps?
+How to plan and organize a successful event, such as a wedding or a party?
+How to clean and disinfect a kitchen thoroughly?
+How to bake a chocolate cake from scratch?
+Teach someone how to do a push-up.
+How to make a DIY face mask?
+Write the steps to make a perfect cup of coffee.
+How to start a workout routine as a beginner?
+How to start a YouTube channel?
+Teach someone how to do a proper squat.
+Write a step-by-step guide to making a vegetable stir-fry.
+How to overhaul a bicycle?
+Write a guide on how to choose the right college major.
+How to master a foreign language?
+Teach someone how to do a plank.
+How to create a resume that stands out?
+Sure, here are 20 more instructions for you:
+How to change a flat tire on your car?
+Explain how to properly brush your teeth and maintain good oral hygiene.
+Make a list of steps to follow for planting a vegetable garden.
+How to build a birdhouse using simple materials at home?
+Learn how to cook a delicious and healthy meal in under 30 minutes.
+Make a list of essential items to pack for a weekend getaway.
+How to train your dog to follow basic commands?
+Explain how to properly use a fire extinguisher in case of an emergency.
+How to make a DIY face mask using household items?
+Make a list of at-home exercises for a full-body workout routine.
+How to create a budget and stick to it for better financial management?
+Explain how to create a LinkedIn profile that stands out to potential employers.
+Make a list of tips to reduce stress and improve mental health.
+How to troubleshoot common computer problems at home?
+Explain how to tie different types of knots for outdoor activities.
+Make a list of self-improvement goals and actionable steps to achieve them.
+Sure, here are 20 more instructions for you:
+How to change a tire on a car?
+How to properly fold a fitted sheet?
+Instructions for setting up a new email account?
+How to potty train a toddler?
+How to knit a scarf?
+Instructions for assembling a piece of furniture?
+How to make homemade ice cream?
+How to create a budget for personal finances?
+Instructions for making a homemade face mask?
+How to do a basic dance routine?
+How to plant a vegetable garden?
+How to create and stick to an exercise routine?
+Instructions for changing the oil in a car?
+How to sew a button onto a shirt?
+Instructions for making a simple origami model?
+How to make a delicious smoothie?
+How to properly brush and floss your teeth?
+Instructions for installing a new light fixture?
+How to plan a weekend trip on a budget?
+How to write a strong job application cover letter?
+How to properly wash your hands to prevent the spread of germs?
+How to prepare a healthy salad?
+How to clean your laptop screen?
+How to plant a small garden in your backyard?
+How to make a DIY face mask at home?
+How to set up a home office for remote work?
+How to organize your closet for maximum efficiency?
+How to unclog a kitchen sink?
+How to make homemade pizza from scratch?
+How to tie a tie?
+How to make a homemade latte?
+How to cook the perfect steak?
+How to clean a toilet properly?
+How to create a basic website using WordPress?
+How to properly season cast iron cookware?
+How to make homemade ice cream without an ice cream maker?
+How to replace a light switch in your home?
+How to organize your pantry for optimal storage?
+How to train your dog to sit on command?
+How to plan a successful road trip?
+How to tie a tie?
+Explain how to wash and dry clothes? 
+How to make pancakes from scratch?
+How to train a puppy to stop biting?
+How to change the oil in your car?
+How to write a business email? 
+How to play a basic guitar chord progression?
+How to prepare a homemade pizza?
+How to create a resume? 
+How to floss your teeth properly?
+How to meditate for mindfulness?
+How to troubleshoot common computer problems?
+How to make a thrift store find look designer?
+How to install a ceiling fan in your home?
+How to make a French Press coffee?
+How to cook the perfect steak?
+How to create a capsule wardrobe?
+How to declutter your home?
+How to start a successful blog?
+How to make homemade soap?
